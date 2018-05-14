@@ -1,0 +1,10 @@
+C:\Users\prodi\source\repos\Passagens\Hosting\bin\Debug\Hosting.exe.config
+C:\Users\prodi\source\repos\Passagens\Hosting\bin\Debug\Hosting.exe
+C:\Users\prodi\source\repos\Passagens\Hosting\bin\Debug\Hosting.pdb
+C:\Users\prodi\source\repos\Passagens\Hosting\bin\Debug\Passagens.dll
+C:\Users\prodi\source\repos\Passagens\Hosting\bin\Debug\Passagens.pdb
+C:\Users\prodi\source\repos\Passagens\Hosting\bin\Debug\Passagens.dll.config
+C:\Users\prodi\source\repos\Passagens\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+C:\Users\prodi\source\repos\Passagens\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+C:\Users\prodi\source\repos\Passagens\Hosting\obj\Debug\Hosting.exe
+C:\Users\prodi\source\repos\Passagens\Hosting\obj\Debug\Hosting.pdb

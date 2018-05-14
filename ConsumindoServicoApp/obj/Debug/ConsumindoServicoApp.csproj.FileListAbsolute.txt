@@ -1,0 +1,10 @@
+C:\Users\prodi\source\repos\Passagens\ConsumindoServicoApp\bin\Debug\ConsumindoServicoApp.exe.config
+C:\Users\prodi\source\repos\Passagens\ConsumindoServicoApp\bin\Debug\ConsumindoServicoApp.exe
+C:\Users\prodi\source\repos\Passagens\ConsumindoServicoApp\bin\Debug\ConsumindoServicoApp.pdb
+C:\Users\prodi\source\repos\Passagens\ConsumindoServicoApp\obj\Debug\ConsumindoServicoApp.csprojResolveAssemblyReference.cache
+C:\Users\prodi\source\repos\Passagens\ConsumindoServicoApp\obj\Debug\ConsumindoServicoApp.Form1.resources
+C:\Users\prodi\source\repos\Passagens\ConsumindoServicoApp\obj\Debug\ConsumindoServicoApp.Properties.Resources.resources
+C:\Users\prodi\source\repos\Passagens\ConsumindoServicoApp\obj\Debug\ConsumindoServicoApp.csproj.GenerateResource.Cache
+C:\Users\prodi\source\repos\Passagens\ConsumindoServicoApp\obj\Debug\ConsumindoServicoApp.csproj.CoreCompileInputs.cache
+C:\Users\prodi\source\repos\Passagens\ConsumindoServicoApp\obj\Debug\ConsumindoServicoApp.exe
+C:\Users\prodi\source\repos\Passagens\ConsumindoServicoApp\obj\Debug\ConsumindoServicoApp.pdb
